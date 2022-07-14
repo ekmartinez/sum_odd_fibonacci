@@ -17,3 +17,5 @@ sumFibs(4) should return 5.
 sumFibs(75024) should return 60696.
 
 sumFibs(75025) should return 135721.
+
+Source: Intermediate Algorithm Scripting (Freecodecamp.com)
